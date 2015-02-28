@@ -1,5 +1,5 @@
 ###An Introduction to Interactive Programming in Python (Part 1) 
-##Week 0
+##Week 0 notes
 #Operations, expressions, and assignments
 
 # Arithmetic expressions - numbers, operators, expressions
